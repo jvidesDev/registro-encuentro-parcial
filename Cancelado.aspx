@@ -1,0 +1,2 @@
+<%@ Page Language="C#" %>
+<!DOCTYPE html><html lang="es"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><title>Registro cancelado</title><link href="Content/site.css" rel="stylesheet"/></head><body><main><div class="card cancelled"><p class="eyebrow">ENCUENTRO ACADÉMICO</p><h1>Registro cancelado</h1><p>Descartaste el formulario. No se guardó una inscripción al cancelar.</p><a class="primary" href="Default.aspx">Iniciar un nuevo registro</a></div></main></body></html>

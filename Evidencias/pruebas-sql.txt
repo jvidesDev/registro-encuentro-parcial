@@ -1,0 +1,9 @@
+PASS: Ocho tablas creadas
+PASS: Claves foráneas habilitadas y confiables
+PASS: Ocho relaciones de clave foránea
+PASS: Todo tema principal pertenece al puente
+PASS: Registro real del navegador con dos temas recuperado
+PASS: fallo en segundo tema revierte estudiante, registro y puente usando DatosEncuentro.Guardar
+PASS: Rollback completo de la clase de persistencia
+PASS: Trigger impide quitar tema principal del puente
+Inscripciones ficticias almacenadas: 7

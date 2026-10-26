@@ -1,0 +1,28 @@
+PASS: Formulario inicial y UTF-8
+PASS: Campos vacíos en servidor
+PASS: Nombres de solo espacios
+PASS: Apellidos vacíos
+PASS: Correo inválido
+PASS: Teléfono inválido
+PASS: Programa sin seleccionar
+PASS: Semestre sin seleccionar
+PASS: Participación sin seleccionar
+PASS: Jornada sin seleccionar
+PASS: Sin temas
+PASS: Sin aceptación
+PASS: Comentarios de 501 caracteres
+PASS: Nombre mayor de 80 caracteres
+PASS: Registro completo con dos temas, 500 caracteres, UTF-8 y salida codificada
+PASS: Comentarios opcionales vacíos
+PASS: Limpiar sin validar ni registrar
+PASS: Cancelar descarta y muestra nueva pantalla sin validar
+PASS: solo los dos casos válidos guardaron registros SQL; antes=5, después=7
+PASS: Ocho tablas creadas
+PASS: Claves foráneas habilitadas y confiables
+PASS: Ocho relaciones de clave foránea
+PASS: Todo tema principal pertenece al puente
+PASS: Registro real del navegador con dos temas recuperado
+PASS: fallo en segundo tema revierte estudiante, registro y puente usando DatosEncuentro.Guardar
+PASS: Rollback completo de la clase de persistencia
+PASS: Trigger impide quitar tema principal del puente
+Inscripciones ficticias almacenadas: 7

@@ -1,0 +1,4 @@
+Base existente antes del script: 1
+Ejecutado: 01-Esquema.sql
+Ejecutado: 02-Catalogos.sql
+Tablas: 8

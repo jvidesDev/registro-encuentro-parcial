@@ -1,0 +1,32 @@
+namespace RegistroEncuentroParcial { public partial class _Default {
+protected global::System.Web.UI.HtmlControls.HtmlForm form1;
+protected global::System.Web.UI.WebControls.ValidationSummary vsRegistro;
+protected global::System.Web.UI.WebControls.Label lblMensaje;
+protected global::System.Web.UI.WebControls.TextBox txtNombres;
+protected global::System.Web.UI.WebControls.RequiredFieldValidator reqtxtNombres;
+protected global::System.Web.UI.WebControls.TextBox txtApellidos;
+protected global::System.Web.UI.WebControls.RequiredFieldValidator reqtxtApellidos;
+protected global::System.Web.UI.WebControls.TextBox txtCorreo;
+protected global::System.Web.UI.WebControls.RequiredFieldValidator reqtxtCorreo;
+protected global::System.Web.UI.WebControls.RegularExpressionValidator revtxtCorreo;
+protected global::System.Web.UI.WebControls.TextBox txtTelefono;
+protected global::System.Web.UI.WebControls.RequiredFieldValidator reqtxtTelefono;
+protected global::System.Web.UI.WebControls.RegularExpressionValidator revtxtTelefono;
+protected global::System.Web.UI.WebControls.DropDownList ddlPrograma;
+protected global::System.Web.UI.WebControls.RequiredFieldValidator reqddlPrograma;
+protected global::System.Web.UI.WebControls.DropDownList ddlSemestre;
+protected global::System.Web.UI.WebControls.RequiredFieldValidator reqddlSemestre;
+protected global::System.Web.UI.WebControls.RadioButtonList rblParticipacion;
+protected global::System.Web.UI.WebControls.RequiredFieldValidator reqrblParticipacion;
+protected global::System.Web.UI.WebControls.DropDownList ddlJornada;
+protected global::System.Web.UI.WebControls.RequiredFieldValidator reqddlJornada;
+protected global::System.Web.UI.WebControls.CheckBoxList cblTemas;
+protected global::System.Web.UI.WebControls.TextBox txtComentarios;
+protected global::System.Web.UI.WebControls.CheckBox chkAcepta;
+protected global::System.Web.UI.WebControls.CustomValidator cvTemas;
+protected global::System.Web.UI.WebControls.CustomValidator cvAcepta;
+protected global::System.Web.UI.WebControls.CustomValidator cvServidor;
+protected global::System.Web.UI.WebControls.Button btnRegistrar;
+protected global::System.Web.UI.WebControls.Button btnLimpiar;
+protected global::System.Web.UI.WebControls.Button btnCancelar;
+} }

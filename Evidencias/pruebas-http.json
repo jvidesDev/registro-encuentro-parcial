@@ -1,0 +1,74 @@
+[
+  {
+    "prueba": "Formulario inicial y UTF-8",
+    "resultado": "APROBADA"
+  },
+  {
+    "prueba": "Campos vacíos en servidor",
+    "resultado": "APROBADA"
+  },
+  {
+    "prueba": "Nombres de solo espacios",
+    "resultado": "APROBADA"
+  },
+  {
+    "prueba": "Apellidos vacíos",
+    "resultado": "APROBADA"
+  },
+  {
+    "prueba": "Correo inválido",
+    "resultado": "APROBADA"
+  },
+  {
+    "prueba": "Teléfono inválido",
+    "resultado": "APROBADA"
+  },
+  {
+    "prueba": "Programa sin seleccionar",
+    "resultado": "APROBADA"
+  },
+  {
+    "prueba": "Semestre sin seleccionar",
+    "resultado": "APROBADA"
+  },
+  {
+    "prueba": "Participación sin seleccionar",
+    "resultado": "APROBADA"
+  },
+  {
+    "prueba": "Jornada sin seleccionar",
+    "resultado": "APROBADA"
+  },
+  {
+    "prueba": "Sin temas",
+    "resultado": "APROBADA"
+  },
+  {
+    "prueba": "Sin aceptación",
+    "resultado": "APROBADA"
+  },
+  {
+    "prueba": "Comentarios de 501 caracteres",
+    "resultado": "APROBADA"
+  },
+  {
+    "prueba": "Nombre mayor de 80 caracteres",
+    "resultado": "APROBADA"
+  },
+  {
+    "prueba": "Registro completo con dos temas, 500 caracteres, UTF-8 y salida codificada",
+    "resultado": "APROBADA"
+  },
+  {
+    "prueba": "Comentarios opcionales vacíos",
+    "resultado": "APROBADA"
+  },
+  {
+    "prueba": "Limpiar sin validar ni registrar",
+    "resultado": "APROBADA"
+  },
+  {
+    "prueba": "Cancelar descarta y muestra nueva pantalla sin validar",
+    "resultado": "APROBADA"
+  }
+]

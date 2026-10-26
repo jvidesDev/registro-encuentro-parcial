@@ -1,0 +1,37 @@
+# Visual Studio, Web Forms y .NET Framework
+.vs/
+[Bb]in/
+[Oo]bj/
+packages/
+TestResults/
+__pycache__/
+*.py[cod]
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+*.pdb
+*.log
+*.tmp
+*.temp
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.bkp
+*.zip
+*.7z
+.env
+.env.*
+*.pfx
+*.p12
+*.pem
+*.key
+*.publishsettings
+*.pubxml
+*.pubxml.user
+publish/
+artifacts/
+node_modules/
+# Conservar packages.config, NuGet.config, fuentes y scripts SQL.

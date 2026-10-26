@@ -1,0 +1,18 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.0.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistroEncuentroParcial", "RegistroEncuentroParcial.csproj", "{C2ABCF2F-6FAA-4E40-81E7-F15BEFC40607}"
+EndProject
+Global
+ GlobalSection(SolutionConfigurationPlatforms) = preSolution
+  Debug|Any CPU = Debug|Any CPU
+  Release|Any CPU = Release|Any CPU
+ EndGlobalSection
+ GlobalSection(ProjectConfigurationPlatforms) = postSolution
+  {C2ABCF2F-6FAA-4E40-81E7-F15BEFC40607}.Debug|Any CPU.ActiveCfg = Debug|AnyCPU
+  {C2ABCF2F-6FAA-4E40-81E7-F15BEFC40607}.Debug|Any CPU.Build.0 = Debug|AnyCPU
+  {C2ABCF2F-6FAA-4E40-81E7-F15BEFC40607}.Release|Any CPU.ActiveCfg = Release|AnyCPU
+  {C2ABCF2F-6FAA-4E40-81E7-F15BEFC40607}.Release|Any CPU.Build.0 = Release|AnyCPU
+ EndGlobalSection
+EndGlobal
